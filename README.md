@@ -1,3 +1,9 @@
+<p align="center">
+  + ============================================================================ +<br>
+  |                                   MINITALK                                   |<br>
+  + ============================================================================ +
+</p>
+
 # Minitalk - 42 Network Project
 
 Minitalk is a project from the 42 Network focused on creating a simple communication system between two programs using Unix signals. The challenge involves implementing a message transfer protocol and demonstrating the usage of signals to send and receive data, which enhances understanding of process control and inter-process communication.
